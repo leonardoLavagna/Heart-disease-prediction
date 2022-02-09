@@ -1,4 +1,5 @@
 # Heart-disease-prediction
+[Senza nome.pdf](https://github.com/leonardoLavagna/Heart-disease-prediction/files/8031707/Senza.nome.pdf)
 
 Heart Diseases and Cardiovascular Conditions are one of the leading causes of death in many countries of the world, but many of these conditions can be improved or even prevented by putting in place some changes in our daily lives. In this context having early indication of possible future Cardiovascular Problems plays a crucial role, particularly when medical data are largely available. For this work, we will use a publicly available dataset of 11 features and 918 observations to predict whether a given patient is likely to develop some heart disease, making use of several well known techniques – such as feature scaling and dimensionality reduction – and models – such as Logistic Regression and k-Nearest Neighbors.
 
